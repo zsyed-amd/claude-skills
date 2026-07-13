@@ -15,7 +15,7 @@ Then open Claude Code and run `/weekly-tracker` — the one-time setup will walk
 
 ### `/weekly-tracker`
 
-Automated weekly work tracker. Collects GitHub activity, Claude chat tasks, content created, and meeting transcripts every Friday at 6pm, then posts your summary to the shared Confluence page and SharePoint list. On Monday, Zohair runs `/weekly-tracker send` to email the full team summary to Evan.
+Automated weekly work tracker. Collects GitHub activity, Claude chat tasks, content created, and meeting transcripts every Friday at 6pm, then posts your summary to the shared Confluence page and SharePoint list. On Monday, Automation runs `/weekly-tracker send` to email the full team summary to manager.
 
 **Prerequisites before first run:**
 
